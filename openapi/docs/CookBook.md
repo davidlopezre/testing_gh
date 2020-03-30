@@ -1,5 +1,5 @@
 # CookBook REST API
-Thiss is an API that allows you to access a collectively created cookbook.
+Tdhiss is an API that allows you to access a collectively created cookbook.
 
 ## Features
 
