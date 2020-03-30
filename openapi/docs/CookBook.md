@@ -1,5 +1,5 @@
 # CookBook REST API
-This is an API that allows you to access a collectively created cookbook.
+Thiss is an API that allows you to access a collectively created cookbook.
 
 ## Features
 
